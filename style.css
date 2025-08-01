@@ -3,7 +3,7 @@ img {width: 300px;
 #img {width: 300px;
     height: 300px;
     margin-top: -10px;}
-body {font-family:  "HuiFont Regular"}
+body {font-family:  "HuiFont Regular", sans-serif}
 #header{
     width: 310px;
     height:50px;}

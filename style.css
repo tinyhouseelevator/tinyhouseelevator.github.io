@@ -5,9 +5,9 @@ img {width: 300px;
     margin-top: -10px;}
 @font-face {
     font-family: 'HuiFont';
-    src: url('/HuiFont Regular/HuiFont Regular.ttf')
-}
+    src: url('/HuiFont Regular/HuiFont Regular.ttf')}
 body {font-family: 'HuiFont', sans-serif}
+a {text-decoration: none;}
 #header{
     width: max-content;}
 .center {

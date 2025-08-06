@@ -9,17 +9,18 @@ img {width: 300px;
 body {font-family: 'HuiFont', sans-serif}
 a {text-decoration: none;}
 #header{
-    width: max-content;}
+    width: 310px;
+    height:50px;}
 .center {
     text-align: center;
     margin-right: auto;
     margin-left: auto}
 #insta {
-    margin-top: 20px;
+    margin-top: 10px;
     width: 50px;
     height: 50px;}
 #spotify {
-    margin-top: 20px;
+    margin-top: 10px;
     width: 50px;
     height: 50px;
 }
@@ -27,4 +28,7 @@ a {text-decoration: none;}
     margin-right: auto;
     margin-left: auto;
     width: max-content;
+}
+.poster{
+    width:350px;
 }
